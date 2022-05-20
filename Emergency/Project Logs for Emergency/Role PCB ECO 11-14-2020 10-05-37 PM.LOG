@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=NetJ2_1 Pin=K1-2
+Removed Pin From Net: NetName=NetK2_5 Pin=P3-1
+Added Component: Designator=LED?(QTB-QBLP595_V)
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = "Yellow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Component: Designator=LED?(QTB-QBLP595_V)
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = "Yellow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetK2_5 Pin=LED?-1
+Added Pin To Net: NetName=NetJ2_1 Pin=LED?-2
+Added Pin To Net: NetName=NetK1_2 Pin=K1-2
+Added Pin To Net: NetName=NetK1_2 Pin=LED?-1
+Added Net: Name=NetK1_2
+Added Pin To Net: NetName=NetLED?_2 Pin=LED?-2
+Added Pin To Net: NetName=NetLED?_2 Pin=P3-1
+Added Net: Name=NetLED?_2
+Added Member To Class: ClassName=Emergancy Member=Component LED? QBLP595-Y
+Added Member To Class: ClassName=Emergancy Member=Component LED? QBLP595-Y
+Added Member To Class: ClassName=Emergancy Member=Component P1 Header 2
+Added Room: Name=Emergancy

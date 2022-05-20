@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=M1 Old Footprint=FUSE HOLDER 80A New Footprint=FUSE HOLDER 80A PCB
+Change Component Comment : Designator=M1 Old Comment=FUSE HOLDER 80A New Comment=FUSE HOLDER 80A_PCB
+Change component parameters: Designator = "M1" ("M1"); Footprint = "FUSE HOLDER 80A"; UniqueID = "\IKRKBVRD" ("\IKRKBVRD")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1703972.pdf"; VariantName = "[No Variations]"
+Added Room: Name=Emergancy

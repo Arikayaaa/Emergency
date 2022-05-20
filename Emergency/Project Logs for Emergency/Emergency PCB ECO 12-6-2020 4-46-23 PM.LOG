@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=VCC Pin=F1-1
+Change Component Footprint: Designator=F1 Old Footprint=FP-0154-MFG New Footprint=LFUS-467_V
+Change Component Comment : Designator=F1 Old Comment=Fuse 1 New Comment=FUSE-1A/32V-3
+Change Managed Component Library Link : Designator=F1 Old VaultGUID=6D652D5B-370E-44B5-9B8C-37782EDB9B82 New VaultGUID=6D652D5B-370E-44B5-9B8C-37782EDB9B82 Old ItemGUID=85432a1b-e527-450e-84d2-c26c51d92664 New ItemGUID=E5FE016F-61D7-4920-9315-FF278C41E7E6 Old RevisionGUID=c1a17712-2c43-4414-af1e-6bc2466fc8f1 New RevisionGUID=2037483E-57CF-45DB-86D1-8CC51065F1BC
+Change component parameters: Designator = "F1" ("F1"); Footprint = "FP-0154-MFG"; UniqueID = "\GGEILEHL" ("\GGEILEHL")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "LFUS-467"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=F1-2
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_1 Pin=K1-1
+Added Net: Name=NetF1_1
+Added Room: Name=Emergancy

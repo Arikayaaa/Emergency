@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetF2_1 Pin=F2-1
+Removed Pin From Net: NetName=VCC Pin=F2-2
+Removed Member From Class: ClassName=Emergancy Member=F2
+Added Component: Designator=M2(KEYSTONE 3568)
+Added Pin To Net: NetName=NetF2_1 Pin=M2-1
+Added Pin To Net: NetName=NetF2_1 Pin=M2-1
+Added Pin To Net: NetName=VCC Pin=M2-2
+Added Pin To Net: NetName=VCC Pin=M2-2
+Change Net Name : Old Net Name=NetF2_1 New Net Name=NetK2_1
+Added Member To Class: ClassName=Emergancy Member=Component M2 FUSE HOLDER
+Added Room: Name=Emergancy
